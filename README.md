@@ -30,9 +30,9 @@
 </div>
 
 ### Linkedin
-https://www.linkedin.com/in/gidi-rabi-3b59831a6/
 
-[![Linkedin-link](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Gidi-Rabi)
+[![Linkedin-link](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/Gidi-Rabi](https://www.linkedin.com/in/gidi-rabi-3b59831a6/
+))
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -40,5 +40,5 @@ https://www.linkedin.com/in/gidi-rabi-3b59831a6/
 
 ### LeetCode
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/shaygali?&theme=unicorn&hide=ranking&ext=skills)](https://leetcode.com/GidiRabi/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/gidirabi?&theme=unicorn&hide=ranking&ext=skills)](https://leetcode.com/GidiRabi/)
 

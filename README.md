@@ -33,7 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 
-### Linkedin
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gidi-rabi-3b59831a6/" target="_blank">

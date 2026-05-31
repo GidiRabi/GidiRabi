@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <a href="[https://www.linkedin.com/in/gidi-rabi-3b59831a6/](https://www.linkedin.com/in/%E2%80%AAgidi-rabi-3b59831a6/)" target="_blank">
+  <a href="https://www.linkedin.com/in/%E2%80%AAgidi-rabi-3b59831a6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn"/>
   </a>
   &nbsp;

@@ -87,12 +87,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GidiRabi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="49%" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GidiRabi&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GidiRabi&theme=tokyonight" width="49%" alt="GitHub Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GidiRabi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" alt="Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GidiRabi&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
 </div>
 
 ---
